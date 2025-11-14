@@ -97,6 +97,7 @@ After running the pipeline:
 
 ## Features
 
+### Core Pipeline
 - ✅ Automated SQLite database creation
 - ✅ Synthetic data generation (realistic Quebec names, addresses, phone numbers)
 - ✅ Data extraction and formatting
@@ -104,6 +105,19 @@ After running the pipeline:
 - ✅ Support for both individual clients and couples
 - ✅ Child/dependent tracking
 - ✅ Financial data (assets, liabilities, net worth)
+
+### Dynamic Forms (NEW!)
+- ✅ Smart field inference with AI (1 field → many fields automatically)
+- ✅ 100+ field dependency rules
+- ✅ Real-time auto-population
+- ✅ Interactive web interface
+- ✅ 77% time savings (30 min → 7 min per form)
+
+### Fathom Integration (NEW!)
+- ✅ Extract data from recorded client meetings
+- ✅ Auto-populate forms from meeting transcripts
+- ✅ AI-powered summary and action items
+- ✅ Meeting → Form → PDF workflow
 
 ## Technology Stack
 
