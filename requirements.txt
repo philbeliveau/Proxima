@@ -1,0 +1,14 @@
+# Proxima Pipeline Dependencies
+
+# Database
+sqlite3
+
+# PDF Processing
+PyPDF2==3.0.1
+reportlab==4.0.7
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# HTTP requests for OpenRouter API (if needed)
+requests==2.31.0
