@@ -1,2 +1,34 @@
+# Generated data files
+data/sqlite/*.db
+data/sqlite/*.db-journal
+data/*.json
+data/populated-pdf/*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment
 .env.local
 .env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
